@@ -4,6 +4,13 @@ weeklingo
 
 site: https://software-project-ecru.vercel.app/login.html
 
+padrões utilizados:
+- abstract factory method: usado para a geração do quiz, com base em desafios diários e quizes de revisão
+
+- decorator: usado para a geração de recompensas, tomando como base lições feitas em sequência, recompensando mais lições feitas no final de semana e lições perfeitas
+
+- memento: usado para permitir apagar as mensagens no chat do tutot de IA, adicionando um botão de retornar para apagar a mensagem e respostas mais recentes
+
 feedbacks:
 - davi jordão (contato: 87 99969-0026):
  Gostei da dinâmica das palavras ter um tempo adequado para responder
